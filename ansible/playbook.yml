@@ -30,6 +30,7 @@
           - git
           - gcc
           - make
+          - rsync
         state: present
       tags: packages
 
