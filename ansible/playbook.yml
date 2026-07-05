@@ -31,6 +31,7 @@
           - gcc
           - make
           - rsync
+          - acl
         state: present
       tags: packages
 
