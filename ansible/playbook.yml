@@ -30,7 +30,6 @@
           - git
           - gcc
           - make
-          - curl
         state: present
       tags: packages
 
